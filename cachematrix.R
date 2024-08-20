@@ -31,3 +31,5 @@ cacheSolve <- function(x, ...) {
   x$setInverse(inv)  # Cache the inverse for future use
   inv  # Return the computed inverse
 }
+
+##Assignment completed
